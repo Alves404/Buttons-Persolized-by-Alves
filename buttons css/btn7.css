@@ -1,0 +1,20 @@
+      #btn7 {
+            background: black;
+            color: #fff;
+            border: none;
+            border-radius: 15px;
+            padding: 12px 32px;
+            font-size: 1rem;
+            cursor: pointer;
+            box-shadow: 0 2px 6px rgba(0, 123, 255, 0.15);
+        }
+        #btn7:hover {
+            background: black;
+            animation: pulsate-bck 0.6s infinite;
+        }
+
+        /* Animação de pulsar que dá o efeito de pulsação no botão estilo um coração funciona bem em divs animadas,
+        além de destacar o botão durante o hover. */
+
+        @-webkit-keyframes pulsate-bck{0%{-webkit-transform:scale(1);transform:scale(1)}50%{-webkit-transform:scale(.9);transform:scale(.9)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes pulsate-bck{0%{-webkit-transform:scale(1);transform:scale(1)}50%{-webkit-transform:scale(.9);transform:scale(.9)}100%{-webkit-transform:scale(1);transform:scale(1)}}
+
