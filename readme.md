@@ -21,4 +21,4 @@ Veja exemplos de botões animados na página principal do projeto.
 
 ---
 
-Sinta-se à vontade para explorar, modificar e utilizar os botões em seus próprios projetos!
+Sinta-se à vontade para explorar, modificar e utilizar os botões em seus próprios projetos!!
