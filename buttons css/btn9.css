@@ -1,0 +1,13 @@
+    #btn9 {
+        background: black;
+        color: #fff;
+        border: 2px solid grey; /* Define a border padrão */
+        border-radius: 15px;
+        padding: 12px 32px;
+        font-size: 1rem;
+        cursor: pointer;
+        box-shadow: 0 2px 6px rgba(0, 123, 255, 0.15);
+    }
+    #btn9:hover {
+
+    }
