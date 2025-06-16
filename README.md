@@ -17,7 +17,7 @@ Este projeto apresenta uma coleção de botões personalizados criados utilizand
 
 Veja exemplos de botões animados na página principal do projeto.
 
-[👉 Clique aqui para acessar a demonstração ao vivo](https://alves404.github.io/Buttons-Persolized-by-Alves/)
+[👉 Clique aqui para acessar a demonstração ao vivo](https://buttons-persolized-by-alves.vercel.app/)
 
 ---
 
