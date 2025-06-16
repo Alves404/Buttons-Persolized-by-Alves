@@ -9,11 +9,12 @@
         box-shadow: 0 2px 6px rgba(0, 123, 255, 0.15);
     }
     #btn10:hover {
-    border-color: #00fff7;
-    box-shadow:
-    0 0 8px #00fff7,
-    0 0 16px #00fff7,
-    0 0 32px #00fff7,
-    0 2px 16px rgba(0, 255, 247, 0.3);
-    transition: box-shadow 0.3s, border-color 0.3s;
+    background: linear-gradient(90deg, #434343 0%, #000000 100%);
+    color: #ffd700;
+    border-color: #ffd700;
+    transform: scale(1.05);
+    transition: 
+        color 0.3s ease,
+        border-color 0.3s ease,
+        transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
     }
