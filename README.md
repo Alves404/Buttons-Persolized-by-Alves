@@ -1,5 +1,7 @@
 # Botões Personalizados com CSS
 
+**Versão 1.1**
+
 Este projeto apresenta uma coleção de botões personalizados criados utilizando apenas CSS. O objetivo é demonstrar como é possível criar animações e ilusões visuais atrativas sem o uso de JavaScript ou imagens externas.
 
 ## Funcionalidades
